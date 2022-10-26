@@ -21,7 +21,7 @@
 
 - GitHub: [@githubhandle](https://github.com/yuvenalmash)
 - Twitter: [@twitterhandle](https://twitter.com/_Juvenal_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yuvwnal-njoroge)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yuvenal-njoroge)
 
 ## Acknowledgments
 
