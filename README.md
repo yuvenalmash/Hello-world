@@ -1,12 +1,17 @@
 # Hello Microverse
 
-> project to learn github work flos and use of linters
+> project to learn github work flows and use of linters
+
+## Getting Started
+- Clone the repository to your local machine
+- Paste the path of the index.html file to your browser
+- The project displays 'Hello Microverse' 
 
 
 ## Built With
 
 - HTML
-- CSS)
+- CSS
 
 
 
@@ -21,3 +26,7 @@
 ## Acknowledgments
 
 - Hat tip to microverse
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
